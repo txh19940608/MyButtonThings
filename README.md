@@ -1,2 +1,2 @@
-#简单的AndroidThings蓝牙控制LED项目
+# 简单的AndroidThings蓝牙控制LED项目
 各国国歌各国国歌各国国歌
